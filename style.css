@@ -1,0 +1,95 @@
+h1 {
+  font-family: "Poiret One",cusive;
+  color: #000000;
+  font-size: 32px;
+  padding-top: 50px;
+  text-align: center;
+  text-transform:uppercase;
+  width: 62%;
+}
+
+h2 {
+  border-bottom: 1px solid rgba(255, 255, 255, 0.5);
+  color:#000000;
+  font-family:"Open Sans",sans-serif;
+  font-size: 18px;
+  font-weight: 100;
+  line-height: 25px;
+  padding-top: 30px;
+  padding-bottom: 10px;
+  text-align: center;
+  width: 58%;
+  word-spacing:0.05em;
+  letter-spacing:0.02em;
+}
+
+ol, ul {
+  color: #000000;
+  font-family: "Open Sans", sans serif;
+  font-size: 16px;
+  font-weight: 100;
+  line-height: 20px;
+  padding-top: 10px;
+  padding-bottom: 30px;
+  text-align: left;
+}
+
+p {
+  font-size:16px;
+  font-family:"Open Sans",sans-serif;
+  font-weight:100; /* ? */
+  color: #000000;
+  line-height: 25px;
+  text-align: left;
+  padding-top: 10px; /* ? */
+  padding-bottom: 10px; /* ? */
+  width: 69%;
+}
+
+a {
+  color: Purple;
+  font-family: Lobster, cursive;
+  font-size: 16px;
+  line-height: 20px;
+  width: 100%;
+}
+
+.coon {
+  border-radius: 10%;
+}
+
+.cat {
+  border-radius: 50%;
+}
+
+/* Whats that?
+
+.byline {
+  color: rgba(255, 255, 255, 0.5);
+  float: left;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 100;
+  font-size: 14px;
+  padding-left: 10px;
+  text-transform: uppercase;
+}
+
+.caption {
+  background-color: rgba(0, 0, 0, 0.6);
+  color: rgba(255, 255, 255, 0.65);
+  display: block;
+  font-family: 'Playfair Display', serif;
+  font-size: 14px;
+  font-style: italic;
+  line-height: 14px;
+  margin-left: 20px;
+  padding: 10px;
+  position: relative;
+  top: 80%;
+  width: 60%;
+}
+
+.content {
+  padding: 40px;
+}
+*/
